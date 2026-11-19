@@ -1,0 +1,258 @@
+{
+  "paper": "THE WORLD IN ONE DAY",
+  "dateline": "THURSDAY, 19 NOVEMBER 2026",
+  "lead_deck": "Nuclear arms and the wars in Ukraine and Iran on the table; no joint statement expected.",
+  "stories": [
+    {
+      "section": "DIPLOMACY",
+      "headline": "Trump, Xi and Putin meet in first-ever three-way summit",
+      "source": "AP",
+      "lead": true
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Trump and Xi hold third bilateral of the year",
+      "source": "Reuters"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Trump and Putin to meet one-to-one in Shenzhen",
+      "source": "BBC"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Nuclear arms top the agenda in Shenzhen",
+      "source": "Al Jazeera"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Ukraine left off the formal three-way agenda",
+      "source": "Al Jazeera"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Draft joint statement under debate, no deal assured",
+      "source": "TASS"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "APEC plenary opens as Xi pledges $20 million",
+      "source": "Nikkei Asia"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Kylin Villa hosts the three-way session",
+      "source": "BBC"
+    },
+    {
+      "section": "DIPLOMACY",
+      "headline": "Midterm losses shadow Trump on his Asia trip",
+      "source": "Le Monde"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "Anthropic shares begin trading on Nasdaq as ANT",
+      "source": "Reuters"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "Anthropic debut values AI lab above $1.4 trillion",
+      "source": "CNN"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "Anthropic options trading to start on Monday",
+      "source": "Reuters"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "Van Gogh sale lifts collection total to $412 million",
+      "source": "Hypebeast"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "Rare-earth exports run 75 percent below normal",
+      "source": "Al Jazeera"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "US-China trade truce expires on 10 January",
+      "source": "Al Jazeera"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "White House pursues $2 billion Philippines loan",
+      "source": "Reuters"
+    },
+    {
+      "section": "MARKETS & TRADE",
+      "headline": "EU approves signing Indonesia trade deals",
+      "source": "Reuters"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Israeli ground operation pushes past Yellow Line",
+      "source": "AP"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Four nations demand aid access to flooded Gaza",
+      "source": "Reuters"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "US sanctions three entities over Hezbollah links",
+      "source": "Reuters"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Yemen coalition warns of missile threat to Riyadh",
+      "source": "AFP"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Saudi Arabia says danger passed in three cities",
+      "source": "Reuters"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Crimean Bridge attacked again, traffic suspended",
+      "source": "AP"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "UN: 372 civilians killed in Ukraine in October",
+      "source": "UN"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "UN confirms 2,230 civilian deaths in Sudan",
+      "source": "UN"
+    },
+    {
+      "section": "CONFLICT & SECURITY",
+      "headline": "Russian held over spying on Palantir for Ukraine",
+      "source": "AFP"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Myanmar faces historic genocide verdict at UN court",
+      "source": "Reuters"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Cyclone Akvan set to cross near Machilipatnam",
+      "source": "AP"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Bangladesh garment workers protest into third week",
+      "source": "AFP"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "India-New Zealand Test continues in Wellington",
+      "source": "AP"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Sindhu returns to world top five",
+      "source": "PTI"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Ethiopia and Eritrea forces gather near Badme",
+      "source": "Reuters"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "Voyager 1 reaches a light-day from Earth",
+      "source": "NASA"
+    },
+    {
+      "section": "ASIA & PACIFIC",
+      "headline": "UNICEF: 64 children killed in Yemen since September",
+      "source": "UNICEF"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "Knesset elects Kahana as speaker with 66 votes",
+      "source": "AP"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "Israel president taps Eisenkot to form government",
+      "source": "Reuters"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "Melenchon could win presidency, minister says",
+      "source": "AFP"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "Italy gives final approval to antisemitism bill",
+      "source": "Reuters"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "Panama makes second arrest over journalist attack",
+      "source": "AP"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "McDonald's sex abuse case moves forward",
+      "source": "Reuters"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "US cites $12 billion Venezuelan oil revenue",
+      "source": "State Dept"
+    },
+    {
+      "section": "EUROPE & AMERICAS",
+      "headline": "US senators warn AI cyber threats outpace defences",
+      "source": "Reuters"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "GTA VI begins global rollout at midnight",
+      "source": "Rockstar"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "New Zealand players first into Vice City",
+      "source": "Rockstar"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "GTA VI scores 99 on Metacritic at launch",
+      "source": "Metacritic"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "Time off requests jump 13 percent for launch day",
+      "source": "BambooHR"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "GTA VI lists at $79.99, Ultimate at $99.99",
+      "source": "Xbox Store"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "Jason and Lucia return to Vice City in Leonida",
+      "source": "Rockstar"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "No PC version at launch, console only for now",
+      "source": "Rockstar"
+    },
+    {
+      "section": "CULTURE & SCIENCE",
+      "headline": "Main story runs about 50 hours, makers say",
+      "source": "Rockstar"
+    }
+  ]
+}
